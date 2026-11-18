@@ -66,38 +66,35 @@ Exercícios e aplicações desenvolvidas para praticar lógica de programação,
 
 ---
 
+
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+<p align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Dooooc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dooooc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-
 </p>
+
+<div style="clear: both;"></div>
+
 
 
 ---
 
 ## 📫 Contato
 
-<p>
+
   💼 Estou aberto a oportunidades, projetos e conexões na área de tecnologia.
 
   📧 **E-mail:** [Yuri Sanches](https://mail.google.com/mail/u/0/#inbox)
 
   🔗 **LinkedIn:** [Yuri](https://www.linkedin.com/in/yuri-sanches-413b27365/)
-</p>
+
 ---
 
 ⭐ *Sempre aprendendo, praticando e construindo novos projetos.*
