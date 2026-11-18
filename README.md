@@ -91,12 +91,13 @@ Exercícios e aplicações desenvolvidas para praticar lógica de programação,
 
 ## 📫 Contato
 
-💼 Estou aberto a oportunidades, projetos e conexões na área de tecnologia.
+<p>
+  💼 Estou aberto a oportunidades, projetos e conexões na área de tecnologia.
 
-📧 **E-mail:** [Yuri Sanches](https://mail.google.com/mail/u/0/#inbox)
+  📧 **E-mail:** [Yuri Sanches](https://mail.google.com/mail/u/0/#inbox)
 
-🔗 **LinkedIn:** [Yuri](https://www.linkedin.com/in/yuri-sanches-413b27365/)
-
+  🔗 **LinkedIn:** [Yuri](https://www.linkedin.com/in/yuri-sanches-413b27365/)
+</p>
 ---
 
 ⭐ *Sempre aprendendo, praticando e construindo novos projetos.*
